@@ -1,0 +1,20 @@
+#logout {
+	color: red;
+	font-weight: bold;
+}
+
+#xApagar {
+	color: red;
+	text-decoration: none;
+}
+
+.form { margin: 0; }
+
+.message {
+	margin: 35px;
+	font-size: 14pt;
+}
+
+.spacebottom { margin-bottom: 20px; }
+
+.imagem { width:400px; }
